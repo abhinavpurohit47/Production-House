@@ -1,0 +1,10 @@
+
+
+/* @font-face */ 
+@font-face {
+	font-family: 'Montserrat';
+	src: url('fonts/montserrat-extralight-webfont.woff2') format('woff2'),
+		 url('fonts/montserrat-extralight-webfont.woff') format('woff');
+	
+}
+
